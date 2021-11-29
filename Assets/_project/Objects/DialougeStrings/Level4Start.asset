@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da6e068e239cf7448b4e033a2db5f7f, type: 3}
+  m_Name: Level4Start
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'You find some of the others!
+
+      You also find a bunch of undead'
+    speed: 4
+    holdTime: 0.5
+  - text: Pink and Blue seem relieved at the sight of you
+    speed: 3
+    holdTime: 3.5
+  - text: Pink Knight is Unique... Well... I mean
+    speed: 2
+    holdTime: 2.5
+  - text: They have a Bow
+    speed: 2
+    holdTime: 2.5

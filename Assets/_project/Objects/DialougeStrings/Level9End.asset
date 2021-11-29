@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da6e068e239cf7448b4e033a2db5f7f, type: 3}
+  m_Name: Level9End
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "You reach the throne Room... \nYou quickly put Deaths Gem into your Throne."
+    speed: 3
+    holdTime: 3
+  - text: You fufilled your end of the pact
+    speed: 3
+    holdTime: 3
+  - text: '"Everything is ruined... our families... what...
+
+      What is happening!?"
+
+      Green
+      looksto you'
+    speed: 3
+    holdTime: 3
+  - text: 'They seem to put the pieces together. First Pink.
+
+      "That Gem...
+      It... Its doing this isnt it..? You..."'
+    speed: 3
+    holdTime: 3
+  - text: 'They cant understand.. They never woulf..
+
+      You have the power to
+      make the world even better'
+    speed: 3
+    holdTime: 5
